@@ -2,6 +2,11 @@
 ## Project Description 
 The purpose of this interface design is to test out the multiple interface design ideas that can be implemented into the reconstruction of Alaska's Department of Fish and Game.
 I previously created a wireframe that outlined the websites features in order for users to test out its usability, based on two tasks they were asked to complete. Now I will digitize the wireframe/wireflow in order to implement more design features (ex.Typography,Color Scheme,Layout), so that I can run a user test and then see how much more I can adjust the designs on the webpage based on their feedback.  
+
+## Layout
+Below I've inserted the layout grid for the webpage. I struggled with this and will need to improve on the practice.
+
+
 ## Typography 
 Before finalizing a typeface I considered three variations for the Webpage. 
 
@@ -15,5 +20,11 @@ When it came down to the shape variation I was mainly focused on the clickable b
 Shape1: <img src="Shape1.png" width="25%" length="25%"> Shape2: <img src="Shape2.png" width="25%" length="25%"> Shape3: <img src="Shape3.png" width="25%" length="25%">
 
 ## Color Variation 
-I first created a light mode color theme by extracting the colors from Alaska's Department of Fish and Game Logo. This color variation can be seen below. 
+I first created a light mode color theme by extracting the colors from Alaska's Department of Fish and Game Logo. This color variation can be seen below.
 
+Light Theme: <img src="Lighttheme.png" width="25%" length="25%">
+
+I then created a dark mode color them using the same method. And I knew I wanted to stick with a dark mode for the Webpage being that it is part of a governement website and it seemed more professional.This color variation can be seen below. 
+
+
+Dark Theme: <img src="Darktheme.png" width="25%" length="25%">
