@@ -14,3 +14,6 @@ When it came down to the shape variation I was mainly focused on the clickable b
 
 Shape1: <img src="Shape1.png" width="25%" length="25%"> Shape2: <img src="Shape2.png" width="25%" length="25%"> Shape3: <img src="Shape3.png" width="25%" length="25%">
 
+## Color Variation 
+I first created a light mode color theme by extracting the colors from Alaska's Department of Fish and Game Logo. This color variation can be seen below. 
+
