@@ -6,6 +6,7 @@ I previously created a wireframe that outlined the websites features in order fo
 ## Layout
 Below I've inserted the layout grid for the webpage. I struggled with this and will need to improve on the practice.
 
+<img src="Layout.png" width="25%" length="25%"> 
 
 ## Typography 
 Before finalizing a typeface I considered three variations for the Webpage. 
@@ -28,3 +29,12 @@ I then created a dark mode color them using the same method. And I knew I wanted
 
 
 Dark Theme: <img src="Darktheme.png" width="25%" length="25%">
+
+## Color Contrast Check
+I completed a color coontrast check between background vs. text, background vs. button/icon; and button background vs. button labels the test results are shown below. 
+
+Background vs. text: <img src="Backgroundvstext.png" width="25%" length="25%"> 
+
+Background vs. button/icon: <img src="BackgroundvsButton.png" width="25%" length="25%"> (After several attempts to change the colors in order for them to pass the test I was unable to do so, this is something I have to continue to work on) 
+
+Button background vs. button labels: <img src="Buttonbackgroundvsbuttonlabel.png" width="25%" length="25%">
