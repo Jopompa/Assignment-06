@@ -35,7 +35,7 @@ I then created a dark mode color them using the same method. And I knew I wanted
 Dark Theme: <img src="Darktheme.png" width="25%" length="25%">
 
 ## Color Contrast Check
-I completed a color coontrast check between background vs. text, background vs. button/icon; and button background vs. button labels the test results are shown below. 
+I completed a color contrast check between background vs. text, background vs. button/icon; and button background vs. button labels the test results are shown below. 
 
 Background vs. text: <img src="Backgroundvstext.png" width="25%" length="25%"> 
 
