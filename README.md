@@ -5,6 +5,8 @@ I previously created a wireframe that outlined the websites features in order fo
 
 Prototype link can be found <a href="https://www.figma.com/proto/xcE8uYadsSKRI0JRrVU0fS/Interface-Design?node-id=1%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"> here </a> (When on the prototype, screen size option should be set to "Fill- Scale up or down to fill")
 
+Design page link can be found <a href="https://www.figma.com/file/xcE8uYadsSKRI0JRrVU0fS/Interface-Design?node-id=0%3A1"> here </a> 
+
 ## Layout
 Below I've inserted the layout grid for the webpage. I struggled with this and will need to improve on the practice.
 
