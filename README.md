@@ -3,6 +3,8 @@
 The purpose of this interface design is to test out the multiple interface design ideas that can be implemented into the reconstruction of Alaska's Department of Fish and Game.
 I previously created a wireframe that outlined the websites features in order for users to test out its usability, based on two tasks they were asked to complete. Now I will digitize the wireframe/wireflow in order to implement more design features (ex.Typography,Color Scheme,Layout), so that I can run a user test and then see how much more I can adjust the designs on the webpage based on their feedback.  
 
+Prototype link can be found <a href="https://www.figma.com/proto/xcE8uYadsSKRI0JRrVU0fS/Interface-Design?node-id=1%3A2&scaling=contain&page-id=0%3A1&starting-point-node-id=1%3A2&show-proto-sidebar=1"> here </a> (When on the prototype, screen size option should be set to "Fill- Scale up or down to fill")
+
 ## Layout
 Below I've inserted the layout grid for the webpage. I struggled with this and will need to improve on the practice.
 
