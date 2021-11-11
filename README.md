@@ -42,3 +42,9 @@ Background vs. text: <img src="Backgroundvstext.png" width="25%" length="25%">
 Background vs. button/icon: <img src="BackgroundvsButton.png" width="25%" length="25%"> (After several attempts to change the colors in order for them to pass the test I was unable to do so, this is something I have to continue to work on) 
 
 Button background vs. button labels: <img src="Buttonbackgroundvsbuttonlabel.png" width="25%" length="25%">
+
+## Impression Test 
+Video of impression test can be found <a href="https://drive.google.com/file/d/1enN94t1acwFHMGjvkvLEWC407lprdsk6/view?usp=sharing"> here </a>
+
+## Summary of Impression test
+Overall the user said that they enjoy font style and color scheme of the webpage. Although it did not pass the color contrast test, so I will need to change the color scheme when I work on the prototype again. She said that there is still alot of content on the webpage which makes it feel overwhelming, however I am not sure if I am able to take any content away from the Departments' webpage being that it is all information that is important in their goal to inform the readers. I think a solution to this might be rearranging certain information on the home screen. Lastly, there were no comments made on the button layout of the webpage so I think I could keep that aspect of the design how it is.  
