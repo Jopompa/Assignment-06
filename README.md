@@ -8,7 +8,7 @@ Prototype link can be found <a href="https://www.figma.com/proto/xcE8uYadsSKRI0J
 Design page link can be found <a href="https://www.figma.com/file/xcE8uYadsSKRI0JRrVU0fS/Interface-Design?node-id=0%3A1"> here </a> 
 
 ## Layout
-Below I've inserted the layout grid for the webpage. I struggled with this and will need to improve on the practice.
+Below I've inserted the layout grid for the webpage. I struggled with this due to there being so many items on the webpage and not knowing how many columns or rows would accomodate all the items properly, which is why on some of the pages I had to place some items in the gutter. Which can be seen in the design page link. I will need to improve on the practice.
 
 <img src="Layout.png" width="25%" length="25%"> 
 
